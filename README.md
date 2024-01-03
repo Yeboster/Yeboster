@@ -4,6 +4,4 @@ As someone deeply passionate about development and innovation, I'm constantly ex
 
 I'm more than happy to engage in conversations about your projects, creative concepts, or any opportunities where I can contribute to bringing your visions to life.
 
-I am looking forward to building enduring success together!
-
-Build Together to Live Forever ♾️
+Build Together to Live Forever
