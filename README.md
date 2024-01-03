@@ -1,9 +1,10 @@
-**Hi**! I hope you're doing well.
+Hello!
 
-Let me introduce myself: I'm a web developer enthusiast (even if the web is a mess 😛) and I like experimenting with new technologies.
+As someone deeply passionate about development and innovation, I'm constantly exploring the latest in technology. It's this enthusiasm that drives me to connect with like-minded individuals and teams.
 
-Currently, I am learning [Phoenix framework](https://www.phoenixframework.org) (yes, I'm in love with functional programming).
+I'm more than happy to engage in conversations about your projects, creative concepts, or any opportunities where I can contribute to bringing your visions to life.
 
-You can also check my [Gitlab](https://gitlab.com/Yeboster) (also yes, I'm lazy to transfer the repositories).
+I am looking forward to building enduring success together!
 
-Have a nice day!
+As always,
+Build Together to Live Forever ♾️
