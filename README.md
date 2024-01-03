@@ -6,5 +6,4 @@ I'm more than happy to engage in conversations about your projects, creative con
 
 I am looking forward to building enduring success together!
 
-As always,
 Build Together to Live Forever ♾️
